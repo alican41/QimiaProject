@@ -1,0 +1,15 @@
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\bin\Debug\net6.0\QimiaProject.Business.deps.json
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\bin\Debug\net6.0\QimiaProject.Business.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\bin\Debug\net6.0\QimiaProject.Business.pdb
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\bin\Debug\net6.0\QimiaProject.DataAccess.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\bin\Debug\net6.0\QimiaProject.DataAccess.pdb
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.AssemblyInfo.cs
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.csproj.CopyComplete
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\refint\QimiaProject.Business.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\QimiaProject.Business.pdb
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.Business\obj\Debug\net6.0\ref\QimiaProject.Business.dll

@@ -1,0 +1,12 @@
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\bin\Debug\net6.0\QimiaProject.DataAccess.deps.json
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\bin\Debug\net6.0\QimiaProject.DataAccess.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\bin\Debug\net6.0\QimiaProject.DataAccess.pdb
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.AssemblyInfo.cs
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\refint\QimiaProject.DataAccess.dll
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\QimiaProject.DataAccess.pdb
+C:\Users\alica\source\repos\QimiaProject\QimiaProject.DataAccess\obj\Debug\net6.0\ref\QimiaProject.DataAccess.dll
